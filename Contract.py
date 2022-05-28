@@ -52,7 +52,7 @@ def test():
     scenario.h1("Reporting a FIR")
     scenario += panjikaran1.addFir(
         uid = "0123456789", 
-        name = "Yuvraj Singh Deora", 
+        name = "Manav Deep Singh Lamba", 
         fathersName="Samandar Singh",
         age = 20, 
         gender = "Male", 
