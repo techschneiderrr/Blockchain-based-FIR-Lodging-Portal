@@ -18,8 +18,8 @@ The block diagram above represents the correct working of the model in that firs
 🔖How to run this application on your system?
  
 📍 Download all the files from The github.<br>
-📍 Open the source code from the link given below <br>
-And copy and make a new project on google collaboratory.
+📍 Open the source code from the link given below and copy and make a new project on google collaboratory.<br>
+
 
 💫Link of google collab -: https://github.com/YUVRAJ06singh08deora/Blockchain_based_FIR_lodging/blob/main/DecentralizedFir.ipynb<br>
 
@@ -27,8 +27,6 @@ And copy and make a new project on google collaboratory.
 📍 Go to Runtime  and then select Run all over there.<br>
 📍 In the very last module of the collaboratory you will be able to see the link named “Your web app can be accessed from this link” and a link will be there so then click on the link and hurray your Dapp is running in front of you.<br>
 
-### Video Demonstration
-https://www.loom.com/share/cad87b60fd46417b8d5c24b49c95e7c6
 ### 🔑 KEY FEATURES OF THE APP
 - Data is stored on the blockchain network.
 - Once the Fir Records are inserted then no one can modify them.
